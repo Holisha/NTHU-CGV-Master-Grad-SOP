@@ -5,6 +5,7 @@
 **務必**確認已完成以下事項：
 - [ ] 修滿24學分 (書報 + 研究方法 + 其他 6 門課)
 - [ ] 通過[國立清華大學學術研究倫理教育課程](https://web.ee.nthu.edu.tw/p/405-1175-93282,c529.php?Lang=zh-tw)
+>    - [臺灣學術倫理教育資源中心](https://ethics-s.moe.edu.tw/login/s/) -> 學習歷程 -> 下載修課證明
 - [ ] 資訊工程學系碩士班[三門必修課查核表](https://dcs.site.nthu.edu.tw/var/file/174/1174/img/RequiredCoursesChecklist(ThreeCourses)_111.docx)
 > 詳見: [112學年度資訊工程學系碩士班研究生『碩士學位考試』注意事項](https://dcs.site.nthu.edu.tw/p/404-1174-184424.php)
 - [ ] ~~老師的許可~~
