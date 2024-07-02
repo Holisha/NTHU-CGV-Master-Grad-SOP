@@ -9,7 +9,7 @@
 - [ ] 資訊工程學系碩士班[三門必修課查核表](https://dcs.site.nthu.edu.tw/var/file/174/1174/img/RequiredCoursesChecklist(ThreeCourses)_111.docx)
 > 詳見: [112學年度資訊工程學系碩士班研究生『碩士學位考試』注意事項](https://dcs.site.nthu.edu.tw/p/404-1174-184424.php)
 - [ ] ~~老師的許可~~
-
+ 
 ## Table of contents
 
 1. [口試流程](./doc/oral.md)
