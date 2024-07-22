@@ -21,6 +21,8 @@
 - ~~論文 template~~
 - ~~電子郵件 template~~
 - Review summary template (留給有緣人補上，希望這次補上的版本會提醒我)
+- 影印店資訊、便當、茶水點心相關事宜 (太細節可能就略過)
+- 停車卷注意事項
 
 ## References
 
